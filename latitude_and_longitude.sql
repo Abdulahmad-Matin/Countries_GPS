@@ -243,6 +243,6 @@ INSERT INTO `countries`(`code`, `latitude`, `longitude`,`name`) VALUES
 ("YT","-12.8275","45.166244","Mayotte"),
 ("ZA","-30.559482","22.937506","South Africa"),
 ("ZM","-13.133897","27.849332","Zambia"),
-("ZW","-19.015438","29.154857","Zimbabwe');
+("ZW","-19.015438","29.154857","Zimbabwe");
 
 
